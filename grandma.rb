@@ -20,3 +20,5 @@ def speak_to_grandma(string)
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 end
+
+speak_to_grandma("hello")
